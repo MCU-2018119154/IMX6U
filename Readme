@@ -2,7 +2,7 @@
  * @Author: lrh
  * @Date: 2025-01-05 17:44:36
  * @LastEditors: lrh
- * @LastEditTime: 2025-01-11 22:59:59
+ * @LastEditTime: 2025-01-11 23:05:04
  * @Description: 
 -->
 imx6ull project
@@ -11,3 +11,4 @@ git has a mutable index called stage.
 git tracks changes
 git ttt aaa
 commit in bugfix
+commit in feature
