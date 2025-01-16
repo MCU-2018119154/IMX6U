@@ -2,7 +2,7 @@
  * @Author: lrh
  * @Date: 2025-01-05 17:44:36
  * @LastEditors: lrh
- * @LastEditTime: 2025-01-16 23:25:55
+ * @LastEditTime: 2025-01-16 23:51:47
  * @Description: 
 -->
 imx6ull project
@@ -15,3 +15,5 @@ commit not in feature
 --no-ff
 fix 101 bug
 asdasdsadasd
+git push gitee master 
+git push github master
